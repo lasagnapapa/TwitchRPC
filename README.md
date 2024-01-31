@@ -38,3 +38,5 @@ Additionally, you can upload assets to your Discord Developer Portal to match th
 If the streamer you're watching is "Streamer", upload their profile picture to "assets", and name it "streamer"
 
 Note: This may not work at first, or at all in some cases. I am working on an alternative way of automatically retreiving the streamers picture, but for now this is the only potential method that works. However, it only works sometimes.
+
+Additionally, after extracting the files, I recommend making a shortcut to "TwitchRPC" and placing it in your "C:\ProgramData\Microsoft\Windows\Start Menu\Programs" folder to index the application in your Start Menu
